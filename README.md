@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JinchuanL and I am from :us:
+- 👋 Hi, I’m @JinchuanL and I am from :中国国旗:
 - 👀 I’m interested in photography, code something interesting, travel around the world
 - 🌱 I’m currently learning spring boot framework + Vue.js
 - 💞️ I’m looking to collaborate on something interesting
