@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JinchuanL and I am from :cn:
 - 👀 I’m interested in photography, coding for something interesting, travel, listening to music, movies, games...
-- 🌱 I’m currently learning spring boot framework + Vue.js
+- 🌱 I’m currently learning spring boot framework
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me --> check my personal blog😊
 
