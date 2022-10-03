@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JinchuanL and I am from :cn:
-- 👀 I’m interested in photography, coding for fun, traveling, listening to music, movies, games...
+- 👀 I’m interested in photography, coding for fun, travel around to unknown places, love music, movies, games...
 - 🌱 I’m currently learning spring boot framework
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me --> check my personal blog😊
