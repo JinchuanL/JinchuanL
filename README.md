@@ -8,6 +8,7 @@ And
 
 std::cout << Hello world!
 
+---
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
