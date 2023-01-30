@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Andy and I am from :cn:, currently lived in 🇦🇺.
-- 👀 I’m interested in coding for something really cool, photography, discover places where I haven't been before, love music, movies, games... I do enjoy my life.
-- 🌱 I’m currently learning spring boot framework.
+- 👀 I’m interested in coding for something cool, photography, discovering places where I haven't been before, love music, movies, and games... I do enjoy my life.
+- 🌱 I’m currently worked as a freelance developer.
 - 💞️ I’m looking to find a job in my professional area where I can contribute my skills.
 - 📫 How to reach me --> check my personal blog😊
 
 And
 
-Hello world!
+std::cout << Hello world!
 
 <!---
 JinchuanL/JinchuanL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
