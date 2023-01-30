@@ -22,6 +22,20 @@ std::cout << Hello world!
 
 ### ⏳ History
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I Mostly Code in Java** 
+
+```text
+Java                     2 repos             ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+
+ Last Updated on 30/01/2023 12:08:58 UTC
 <!--END_SECTION:waka-->
 
 
