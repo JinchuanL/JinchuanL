@@ -6,8 +6,9 @@ Currently worked as a freelance developer, if you have some really cool projects
 
 Also I’m looking for a position where I can contribute my skills.
 
+<br>
 
-How to reach me? 
+### How to reach me? 
 
 Check my personal blog😊
 
