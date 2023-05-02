@@ -2,13 +2,13 @@ Hi, this is Andy👋 comes from :cn: and currently lived in 🇦🇺
 
 Always fancy coding for something really cool. Enjoying photography, discovering places I haven't visited, music, movies, and games... I do enjoy my life now.
 
-Currently worked as a freelance developer, if you have some really cool projects, do not hesitate contact me
+Currently working as a freelance developer, if you have some really cool projects, do not hesitate to contact me.
 
-Also I’m looking for a position where I can contribute my skills.
+Also, I’m looking for a position where I can contribute my skills. Let us together change the world!
 
 <br>
 
-### How to reach me? 
+<b>How to reach me?</b> 
 
 Check my personal blog😊
 
