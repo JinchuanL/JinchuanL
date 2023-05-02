@@ -8,9 +8,7 @@ Also, I’m looking for a position where I can contribute my skills. Let us toge
 
 <br>
 
-<b>How to reach me?</b> 
-
-Check my personal blog😊
+<b>How to reach me?</b> -->> Check my personal blog😊
 
 And
 
