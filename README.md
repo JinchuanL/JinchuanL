@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Andy and I am from :cn:, currently lived in 🇦🇺.
-- 👀 I’m interested in coding for something cool, photography, discovering places where I haven't been before, love music, movies, and games... I do enjoy my life.
-- 🌱 I’m currently worked as a freelance developer.
-- 💞️ I’m looking to find a job in my professional area where I can contribute my skills.
-- 📫 How to reach me --> check my personal blog😊
+Hi, this is Andy👋 comes from :cn: and currently lived in 🇦🇺
+
+Always fancy coding for something really cool. Enjoying photography, discovering places I haven't visited, music, movies, and games... I do enjoy my life now.
+
+Currently worked as a freelance developer, if you have some really cool projects, do not hesitate contact me
+
+Also I’m looking for a position where I can contribute my skills.
+
+
+How to reach me? 
+
+Check my personal blog😊
 
 And
 
