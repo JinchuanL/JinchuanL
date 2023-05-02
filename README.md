@@ -12,7 +12,7 @@ And
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/adrianhajdin/portfolio_website/issues/36) in [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)
+1. 🗣 Commented on [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗️ Closed issue [#37](https://github.com/MrWillCom/hexo-theme-cupertino/issues/37) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 3. 🗣 Commented on [#37](https://github.com/MrWillCom/hexo-theme-cupertino/issues/37) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. ❗️ Opened issue [#37](https://github.com/MrWillCom/hexo-theme-cupertino/issues/37) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
