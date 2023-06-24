@@ -59,16 +59,13 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Java                     14 mins             ██████████████████░░░░░░░   70.53 % 
-Git Config               5 mins              ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 15 mins             ██████████████████░░░░░░░   73.54 % 
-VS Code                  5 mins              ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2023 00:43:37 UTC
+ Last Updated on 24/06/2023 00:43:57 UTC
 <!--END_SECTION:waka-->
 
 
