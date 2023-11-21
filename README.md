@@ -18,10 +18,10 @@ And
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1816213410) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
-2. ❗ Opened issue [#624](https://github.com/Whisky-App/Whisky/issues/624) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
-3. 🗣 Commented on [#991](https://github.com/PlayCover/PlayCover/issues/991#issuecomment-1605312004) in [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
-4. ❗️ Opened issue [#37](https://github.com/MrWillCom/hexo-theme-cupertino/issues/37) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1818876970) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
+2. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1818876394) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
+3. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1816213410) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
+4. ❗ Opened issue [#624](https://github.com/Whisky-App/Whisky/issues/624) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
 <!--END_SECTION:activity-->
 
 ---
