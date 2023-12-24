@@ -30,7 +30,7 @@ And
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -85,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2023 00:32:24 UTC
+ Last Updated on 24/12/2023 00:36:33 UTC
 <!--END_SECTION:waka-->
 
 
