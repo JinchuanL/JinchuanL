@@ -18,10 +18,10 @@ And
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1818876970) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
-2. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1818876394) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
-3. 🗣 Commented on [#624](https://github.com/Whisky-App/Whisky/issues/624#issuecomment-1816213410) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
-4. ❗ Opened issue [#624](https://github.com/Whisky-App/Whisky/issues/624) in [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky)
+1. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879639014) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879638108) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. 💪 Opened PR [#48](https://github.com/MrWillCom/hexo-theme-cupertino/pull/48) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+4. ❗ Opened issue [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
 ---
