@@ -59,13 +59,13 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-C#                       2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +81,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2024 00:34:20 UTC
+ Last Updated on 26/03/2024 00:32:51 UTC
 <!--END_SECTION:waka-->
 
 
