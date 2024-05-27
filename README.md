@@ -18,7 +18,7 @@ And
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/JinchuanL/DS218PlusFix/releases/tag/v1.0.0) in [JinchuanL/DS218PlusFix](https://github.com/JinchuanL/DS218PlusFix)
+1. 💪 Opened PR [#648](https://github.com/qd-today/templates/pull/648) in [qd-today/templates](https://github.com/qd-today/templates)
 2. ❌ Closed PR [#50](https://github.com/MrWillCom/hexo-theme-cupertino/pull/50) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 3. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879639014) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879638108) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
