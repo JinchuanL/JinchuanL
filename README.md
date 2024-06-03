@@ -18,8 +18,8 @@ And
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#648](https://github.com/qd-today/templates/pull/648) in [qd-today/templates](https://github.com/qd-today/templates)
-2. ❌ Closed PR [#50](https://github.com/MrWillCom/hexo-theme-cupertino/pull/50) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 💪 Opened PR [#74](https://github.com/mx-space/docs/pull/74) in [mx-space/docs](https://github.com/mx-space/docs)
+2. 💪 Opened PR [#648](https://github.com/qd-today/templates/pull/648) in [qd-today/templates](https://github.com/qd-today/templates)
 3. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879639014) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879638108) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
