@@ -28,6 +28,8 @@ And
 
 ### ⏳ History
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2031%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -84,7 +86,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 00:58:18 UTC
+ Last Updated on 01/08/2025 01:04:54 UTC
 <!--END_SECTION:waka-->
 
 
