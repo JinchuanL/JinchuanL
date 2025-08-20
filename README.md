@@ -59,14 +59,13 @@ Sunday                   128 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████░░░░░░░░░░░░   53.18 % 
-C                        9 mins              ████████████░░░░░░░░░░░░░   46.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +81,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 00:53:18 UTC
+ Last Updated on 20/08/2025 00:51:09 UTC
 <!--END_SECTION:waka-->
 
 
