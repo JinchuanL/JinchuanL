@@ -28,45 +28,7 @@ And
 
 ### ⏳ History
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-🌆 Daytime                353 commits         ██████████░░░░░░░░░░░░░░░   41.92 % 
-🌃 Evening                346 commits         ██████████░░░░░░░░░░░░░░░   41.09 % 
-🌙 Night                  135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   157 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Tuesday                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Wednesday                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Thursday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 161 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Sunday                   128 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -81,7 +43,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 00:53:32 UTC
+ Last Updated on 23/09/2025 00:47:17 UTC
 <!--END_SECTION:waka-->
 
 
