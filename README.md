@@ -36,20 +36,20 @@ And
 
 ```text
 🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-🌆 Daytime                373 commits         ██████████░░░░░░░░░░░░░░░   40.68 % 
-🌃 Evening                377 commits         ██████████░░░░░░░░░░░░░░░   41.11 % 
-🌙 Night                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+🌆 Daytime                373 commits         ██████████░░░░░░░░░░░░░░░   40.63 % 
+🌃 Evening                378 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌙 Night                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Tuesday                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Wednesday                134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Friday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sunday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Tuesday                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Wednesday                134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Friday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Saturday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Sunday                   133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 ```
 
 
@@ -59,19 +59,33 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (4.07%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 5,913 Input Tokens, 637 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 22 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +101,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 01:48:00 UTC
+ Last Updated on 04/08/2026 01:23:28 UTC
 <!--END_SECTION:waka-->
 
 
