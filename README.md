@@ -61,33 +61,23 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   100.00 % 
+SQL                      3 mins              █████████░░░░░░░░░░░░░░░░   37.07 % 
+XML                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Java                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+GitIgnore file           1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-Cursor                   8 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (4.07%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 5,913 Input Tokens, 637 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 00:54:25 UTC
+ Last Updated on 11/08/2026 00:53:45 UTC
 <!--END_SECTION:waka-->
 
 
