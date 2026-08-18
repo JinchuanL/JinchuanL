@@ -61,17 +61,13 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-SQL                      3 mins              █████████░░░░░░░░░░░░░░░░   37.07 % 
-XML                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Java                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-GitIgnore file           1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +89,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 00:36:34 UTC
+ Last Updated on 18/08/2026 00:36:04 UTC
 <!--END_SECTION:waka-->
 
 
