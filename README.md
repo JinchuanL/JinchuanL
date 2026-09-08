@@ -61,19 +61,37 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      12 mins             ██████████░░░░░░░░░░░░░░░   41.93 % 
+YAML                     11 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
+Vue                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (13.34%)
+
+✍️ 0 lines written by AI, 87 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 81 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +107,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 01:45:34 UTC
+ Last Updated on 08/09/2026 01:57:06 UTC
 <!--END_SECTION:waka-->
 
 
