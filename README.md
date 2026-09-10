@@ -61,37 +61,42 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-XML                      12 mins             ██████████░░░░░░░░░░░░░░░   41.93 % 
-YAML                     11 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
-Vue                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+YAML                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Bash                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Vue                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+Hermes                   2 hrs 11 mins       ██████████████░░░░░░░░░░░   55.26 % 
+VS Code                  1 hr 44 mins        ███████████░░░░░░░░░░░░░░   44.17 % 
+Visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (13.34%)
+⏱ AI Coding Time: 3 hrs 14 mins (82.08%)
 
-✍️ 0 lines written by AI, 87 lines written by hand (0.0% AI-written)
+✍️ 888 lines written by AI, 99 lines written by hand (89.97% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 185,460 Input Tokens, 24,029 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $2.82 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 55 AI Prompts
+
+Hermes                   888 lines           █████████████████████████   100.00 % 
+Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 81 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 89.97% of written lines came from AI
+📄 Detailed Prompter — average 545 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 17.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +112,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 02:02:03 UTC
+ Last Updated on 10/09/2026 01:59:03 UTC
 <!--END_SECTION:waka-->
 
 
