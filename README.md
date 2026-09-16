@@ -32,7 +32,7 @@ And
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -61,43 +61,41 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-YAML                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Bash                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Vue                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+YAML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Bash                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Vue                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 
 🔥 Editors: 
-Hermes                   2 hrs 12 mins       ███████████████░░░░░░░░░░   58.06 % 
-VS Code                  1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-Visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-CLI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Hermes                   2 hrs 11 mins       ████████████████░░░░░░░░░   63.16 % 
+VS Code                  1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   36.19 % 
+Visual                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Mac                      3 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (92.61%)
+⏱ AI Coding Time: 3 hrs 10 mins (91.9%)
 
 ✍️ 888 lines written by AI, 12 lines written by hand (98.67% AI-written)
 
-🔤 1,506,514 Input Tokens, 338,722 Output Tokens
+🔤 185,460 Input Tokens, 24,029 Output Tokens
 
-💵 $118.43 Estimated AI Cost This Week
+💵 $2.82 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 61 AI Prompts
+🧠 3 AI Sessions, 52 AI Prompts
 
 Hermes                   888 lines           █████████████████████████   100.00 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.67% of written lines came from AI
-📄 Detailed Prompter — average 504 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📄 Detailed Prompter — average 572 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 10.12% of changed lines were hand-edited
 ```
 
@@ -114,7 +112,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 02:20:42 UTC
+ Last Updated on 16/09/2026 02:13:43 UTC
 <!--END_SECTION:waka-->
 
 
